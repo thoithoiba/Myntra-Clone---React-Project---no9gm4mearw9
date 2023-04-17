@@ -1,8 +1,6 @@
-import { ReactNode } from "react";
 import {
   Image,
   HStack,
-  VStack,
   Box,
   Container,
   Stack,
